@@ -1,0 +1,337 @@
+@media (max-width: 1199.98px) {
+
+    .companypadding {
+        padding-top: 0px !important;
+    }
+
+    .company_section .companyimg img {
+        margin-top: 10px;
+    }
+
+    .company_section .mainhead h1 {
+        text-align: left !important; 
+    margin-bottom: 40px !important;}
+
+ 
+}
+
+@media (max-width: 991.98px) {
+
+    .section-bg {
+        padding-top: 150px !important;
+    }
+
+    .navovelay ul{
+        margin-top: 80px;
+    }
+
+
+    .navbar {
+        padding: 10px 20px !important;
+    }
+    .icon {
+        right: 30px;}
+
+
+
+    .company_section .mainhead h1 {
+        text-align: center !important; }
+
+
+    .mainhead h1 {
+        margin-bottom: 40px !important;
+    }
+
+    body{
+        float: none !important;
+        text-align: center;
+    }
+
+    .g_item img {
+        height: 216px !important;
+    }
+
+    .frontservice .fs_box{
+        margin-bottom: 40px;
+    }
+
+    .company_section{
+        text-align: center;
+    }
+    .company_section .companyimg img{
+        margin-top: 0px;
+        width: 300px;
+        margin-bottom: 40px;
+    }
+    
+
+    #pricing .mainhead h1 {
+        text-align: center !important;
+        margin-top: 40px;
+    }
+
+    .package{
+        padding-left: 0px;
+    }
+
+    #testimonials .testimonial p {
+        padding: 0px;
+    }
+
+    .clientlogos{
+        display: flex;
+        justify-content: space-between;
+    }
+
+/*ABOUT SECTION*/
+
+.videoplay {
+    height: 300px !important;
+}
+
+section {
+    padding: 30px 0px;
+}
+
+.companybio p{
+    margin-bottom: 40px;
+}
+#logos {
+padding-top: 50px;
+padding-bottom: 50px;
+}
+
+/*PROJECT PAGE*/
+.service ul li a {
+    font-size: 12px !important;
+}
+/*SERVICE PAGE*/
+.companypadding {
+    padding-top: 0px !important;
+}
+/*VANCANCIES PAGE*/
+.card ul li {
+    text-align: left !important;
+}
+/*CONTACT PAGE*/
+.map{
+    margin-top: 50px;
+}
+.submitbtn {
+    margin-top: 20px;
+}
+
+
+
+}
+
+@media (max-width: 767.98px) {
+
+    .navbar {
+        padding: 10px 20px !important;
+    }
+
+    .navovelay ul{
+        margin-top: 80px;
+    }
+
+    p{
+        font-size: 14px;
+    }
+
+    .maintitle {
+        margin-bottom: 40px;
+        margin-top: 120px;
+    }
+
+    .maintitle h1 {
+        font-size: 52px;
+        line-height: 50px;
+    }
+    .c_box span {
+        font-size: 23px;
+    }
+
+    .c_box h5 {
+        font-size: 12px;
+    }
+
+    #mainheader {
+        padding-bottom: 40px;}
+
+        .service ul li a {
+            font-size: 13px;
+        }   
+        
+        .g_item .itemimg img{
+            width: 100% !important;
+        }
+
+        #pricing {
+            padding-top: 0px;}
+
+            #pricing {
+                padding-bottom: 50px;
+            }
+
+            
+.contactform input[type="submit"] {
+    margin-top: 20px;
+}
+
+.titlepara{
+    margin: 0px 0px;
+}
+.memberinfo {
+    padding: 10px;}
+.memberinfo h2 {
+    font-size: 16px;
+}
+.memberinfo p{
+    line-height: 15px;
+    margin-top: 10px;
+}
+#testimonials .testimonial p {
+    font-size: 18px;
+}
+#testimonials .testimonial svg:not(:root).svg-inline--fa {
+    font-size: 42px !important;
+}
+.client {
+    margin-top: 32px !important;
+}
+#testimonials {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.card-img-top{
+    width: 50% !important;
+    margin: 0px auto !important;
+}
+.memberinfo{
+    background: none;
+}
+
+.map{
+    margin-top: 50px;
+    justify-content: center;
+    display: flex;
+}
+
+.info_icon {
+    margin-right: 0px;
+}
+
+.info_icon {
+    width: 80px;
+    margin: 0 auto 0 auto;
+    padding: 15px 30px;
+}
+
+
+}
+
+@media (max-width: 575.98px) { 
+
+    .maintitle h1 {
+        font-size: 42px;
+        line-height: 44px;
+    }
+    
+
+
+    .navovelay ul{
+        margin-top: 80px;
+    }
+
+    .companyimg img {
+        width: 150px;
+    }
+
+    .contactform input {
+        margin-right: 0px !important;
+        margin-bottom: 10px;
+    }
+
+    .icon {
+        right: 22px;
+    }
+
+    .rightnav .btn {
+        padding: 12px 20px;
+    }
+
+    .navbar {
+        padding: 10px 20px !important;
+    }
+
+    footer ul li a {
+        padding: 0 4px !important;
+        font-size: 13px;
+    }
+
+    .navovelay ul li {
+        padding: 0px 0px;}
+
+    .navovelay ul {
+        padding-left: 0px;
+    }
+
+    .navovelay ul li a {
+        font-size: 32px;
+    }
+
+    .navovelay ul li a::before{
+        font-size: 62px;
+    }
+
+    .service ul li {
+        padding: 0px 5px;
+    }
+
+    .info_icon {
+        margin-right: 0px;
+    }
+
+    .info_icon {
+        width: 80px;
+        margin: 0 auto 0 auto;
+        padding: 15px 30px;
+    }
+
+
+ }
+
+ 
+@media (max-width: 472px) { 
+
+    .navbar img {
+        width: 92px;
+    }
+
+
+    .rightnav .btn{
+        margin-right: 80px;
+        padding: 4px 8px;
+        font-size: 12px;
+    }
+
+    .icon {
+        right: 30px !important;
+        display: none;
+    }
+
+    .humburger:before{
+        top: -10px;
+    }
+    
+    .humburger:after{
+        top: 10px; 
+
+    }
+
+    .humburger{
+        top: 36%;
+    }
+    
+}
